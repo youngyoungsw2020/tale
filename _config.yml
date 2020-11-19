@@ -1,11 +1,11 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          영영소프트 기술블로그
+description:    "bubble님의 소소한 개발지식들을 포스팅하기 위해 만든 블로그입니다"
+baseurl:        "/"
+url:            "https://youngyoungsw2020.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+#google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
