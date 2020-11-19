@@ -25,10 +25,21 @@ sass:
 
 # Gems
 plugins:
+  - jekyll-remote-theme 
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-toc
+  # javable 사이트보고 추가 jekyll-remote-theme, jekyll-toc
   # - jemoji #Uncomment this to allow emoji in your post
+
+#원래 없었는데 javable 사이트보고 화이트리스트 추가
+whitelist:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-toc
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
